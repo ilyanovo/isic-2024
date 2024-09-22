@@ -1,0 +1,13 @@
+polars==1.6.0
+optuna==4.0.0
+imblearn
+lightgbm==4.5.0
+catboost==1.2.5
+xgboost==2.1.1
+scikit-learn==1.2.0
+torch==2.4.0
+timm==1.0.9
+albumentations==1.4.14
+torcheval==0.0.7
+accelerate==0.34.0
+transformers==4.44.2
